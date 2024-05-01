@@ -1,4 +1,4 @@
-### Hello, i am a self-learner
+# Hello, i am a self-learner👋
 18 y.0. 🇺🇦
 
 Knowledges:

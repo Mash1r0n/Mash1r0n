@@ -9,6 +9,7 @@ Knowledges:
 - 🚥 Git, GitHub
 
 You can contact with me on [LinkedIn](https://www.linkedin.com/in/stasmolchanov/)
+Or via e-mail: stasmolchanov7@gmail.com
 
 ## My start as developer👨‍💻
 My first program was developed in 2022 from C++ using WinForms, for simplifying my student life. After it, I realized that I really like it, so I started to learn all interesting information for me and develop skills by myself. It was 1 year after my first program and I learned many interesting technologies like WPF, C#, Python, DiscordNET, TelegramBOT, Git. I also know basic knowledge about UI/UX. In addition, I am also learning full stack and cybersecurity direction.

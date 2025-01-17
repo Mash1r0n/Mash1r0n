@@ -1,5 +1,4 @@
 # Hello, i am a self-learner developer👋
-18 y.o. 🇺🇦
 
 Knowledges:
 
